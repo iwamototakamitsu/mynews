@@ -19,7 +19,7 @@ public function add()
 
     public function edit()
     {
-        return view('admin.profile.edit');
+        return view('admin.profile.edit'); 
     }
 
     public function update()
