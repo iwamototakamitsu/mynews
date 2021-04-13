@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class Create_profiles_table extends Migration
+class CreateNewsTable extends Migration
 {
     /**
      * Run the migrations.
